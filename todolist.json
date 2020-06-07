@@ -1,0 +1,32 @@
+[
+    {
+        "task": "Meeting with Board Members",
+        "dept": "Conference Room",
+        "time": "9:00AM"     
+    },
+    {
+        "task": "Meeting with Board Members",
+        "dept": "Conference Room",
+        "time": "9:00AM"     
+    },
+    {
+        "task": "Training Recruits",
+        "dept": "Printing Press",
+        "time": "11:00AM"     
+    },
+    {
+        "task": "Interview Recruits",
+        "dept": "HR",
+        "time": "10:00AM"     
+    },
+    {
+        "task": "Meeting with Board Members",
+        "dept": "Conference Room",
+        "time": "9:00AM"     
+    },
+    {
+        "task": "Training K-9 Recruits",
+        "dept": "Security",
+        "time": "12:00AM"     
+    }
+]

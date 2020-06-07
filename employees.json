@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Dylan Afriyie",
+        "position": "Managing Director",
+        "employeeID": "SUN001",
+        "image": "./dylan.JPG"
+        
+    },
+    {
+        "name": "Kennedy Afriyie",
+        "position": "General Supervisor",
+        "employeeID": "SUN002",
+        "image": "./ken.JPG"
+    },
+    
+    {
+        "name": "Rodney Afriyie",
+        "position": "Photocopy Chief",
+        "employeeID": "SUN003",
+        "image": "./rodney1.JPG"
+         
+    },
+    {
+        "name": "Hannah Afriyie",
+        "position": "HR Director",
+        "employeeID": "SUN004",
+        "image": "./hannah.JPG"
+         
+    },
+    {
+        "name": "Nadia Afriyie",
+        "position": "Legal Adviser",
+        "employeeID": "SUN005",
+        "image": "./nadia1.JPG"
+         
+    },
+    {
+        "name": "Bella",
+        "position": "K-9 Officer(Security)",
+        "employeeID": "SUN006",
+        "image": "./bella2.JPG"
+         
+    }
+]
